@@ -343,3 +343,5 @@ escape HTML, and execute code for more powerful templates.
 ## Resources
 
 - [lodash.template](https://lodash.com/docs#template)
+- [lodash.introduction](https://medium.com/front-end-hacking/introduction-to-lodash-71dbee093b49)
+
